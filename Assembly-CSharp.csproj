@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Blade.cs" />
     <Compile Include="Assets\Fruit.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/davic/3D Objects/FruitNinja/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
